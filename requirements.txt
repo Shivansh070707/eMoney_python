@@ -1,0 +1,7 @@
+selenium
+selenium-wire
+beautifulsoup4
+mailTm
+json
+faker
+requests
